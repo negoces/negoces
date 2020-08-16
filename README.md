@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **negoces/negoces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negoces&show_icons=true&theme=highcontrast)
+[![NEGOCES's github stats](https://github-readme-stats.vercel.app/api?username=negoces&show_icons=true&theme=highcontrast)](https://github.com/negoces)
