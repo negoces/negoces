@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![NEGOCES's github stats](https://github-readme-stats.vercel.app/api?username=negoces&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/negoces)
+<img src="https://github-readme-stats.vercel.app/api?username=negoces&show_icons=true&bg_color=15,2CD8D5,C5C1FF&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="" height="180px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negoces&layout=compact&langs_count=8&&bg_color=15,C5C1FF,FFBAC3&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="" height="180px">
